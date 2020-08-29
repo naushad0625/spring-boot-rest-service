@@ -1,5 +1,7 @@
-package com.bokal.restfulapi.payroll;
+package com.bokal.restfulapi.payroll.employeeComponent;
 
+import com.bokal.restfulapi.payroll.employeeComponent.Employee;
+import com.bokal.restfulapi.payroll.employeeComponent.EmployeeController;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;

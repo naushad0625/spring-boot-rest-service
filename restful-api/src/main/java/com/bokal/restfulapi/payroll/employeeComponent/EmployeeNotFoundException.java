@@ -1,4 +1,4 @@
-package com.bokal.restfulapi.payroll;
+package com.bokal.restfulapi.payroll.employeeComponent;
 
 public class EmployeeNotFoundException extends RuntimeException{
     EmployeeNotFoundException(Long id) {

@@ -1,4 +1,4 @@
-package com.bokal.restfulapi.payroll;
+package com.bokal.restfulapi.payroll.employeeComponent;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
